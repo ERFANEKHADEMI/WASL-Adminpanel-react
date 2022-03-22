@@ -1,0 +1,4 @@
+export const GET_VEHICLES = 'GET_VEHICLES';
+export const GET_REQUESTS = 'GET_REQUESTS';
+export const GET_RENTLES = 'GET_RENTLES';
+export const GET_LOCATIONS = 'GET_LOCATIONS';
